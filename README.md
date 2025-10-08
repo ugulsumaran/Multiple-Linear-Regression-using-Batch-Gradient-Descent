@@ -39,11 +39,12 @@ The code performs:
       - Plot **histograms** for all numerical variables to examine their distributions
       - Generate **scatter plots** between each feature and the target (`Performance Index`) to visually explore linear relationships
       
-<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/c333da2c-ab28-46a5-b6e5-86a7a8e84784" />
-    
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/d43eb62d-1b24-41bb-bf0a-41c73caad541" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/a62be64f-f93c-4dea-9e17-86492995531e" />
 
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/02c22d5e-58e2-4b44-9249-9567425f7cc0" />
+<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/a3696a82-a117-45d3-af1f-b40af6ef35c8" />
+
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/ac5feb6b-3252-4e22-9a90-f1e256a74d51" />
+
     
         
 2. **Data Preprocessing**
@@ -99,7 +100,7 @@ The model successfully minimizes the cost function using batch gradient descent,
 
 - Cost Function Convergence
 The following plot shows how the cost function decreases as the model learns through batch gradient descent:
-<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/110bf2e5-f39f-4e88-99e8-0351ce309dda" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/e043d56a-e42a-449b-aa7a-1964fa9f4d20" />
 
 - Model Evaluation Summary
     - MAE (Mean Absolute Error): 1.6197
@@ -130,6 +131,10 @@ Interpretation: This indicates an excellent fit — the model captures the relat
 Conclusion: The R² score is the most impressive result, showing that the model has strong predictive capability.
 (Note: For smaller datasets, such a high R² might also suggest potential overfitting; comparing train and test results is recommended.)
 </details>
+
+- Predictions vs. Actual Values scatter plot
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/29f371af-48bf-44d6-ad93-78e1cc47cbe9" />
+
 
 ## How to Run
 
