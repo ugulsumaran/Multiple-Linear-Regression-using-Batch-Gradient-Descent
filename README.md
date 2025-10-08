@@ -39,11 +39,11 @@ The code performs:
       - Plot **histograms** for all numerical variables to examine their distributions
       - Generate **scatter plots** between each feature and the target (`Performance Index`) to visually explore linear relationships
       
-<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/a62be64f-f93c-4dea-9e17-86492995531e" />
+<img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/a62be64f-f93c-4dea-9e17-86492995531e" />
 
-<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/a3696a82-a117-45d3-af1f-b40af6ef35c8" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/a3696a82-a117-45d3-af1f-b40af6ef35c8" />
 
-<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/ac5feb6b-3252-4e22-9a90-f1e256a74d51" />
+<img width="1100" height="500" alt="Image" src="https://github.com/user-attachments/assets/ac5feb6b-3252-4e22-9a90-f1e256a74d51" />
 
     
         
