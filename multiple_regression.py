@@ -13,7 +13,7 @@ import seaborn as sns
 data = pd.read_csv("Student_Performance.csv")
 # print(data)
 
-# 2 - Data Preprocessing
+# 2 - EDA & Data Preprocessing
 from IPython.display import display
 
 def check_df(dataframe, target=None):
@@ -46,9 +46,7 @@ le = LabelEncoder()
 ### Convert categorical column to numeric
 data['Extracurricular Activities'] = le.fit_transform(data['Extracurricular Activities'])
 
-# Data Preprocessing in Progress
-from IPython.display import display
-
+# EDA in Progress
 def check_df(dataframe, target=None):
     # Correlation
     print("\n##### Correlation Matrix #####")
